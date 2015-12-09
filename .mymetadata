@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WECHAT_PROJECT"
+  id="myeclipse.1445501144170"
+  context-root="/WECHAT_PROJECT"
+  j2ee-spec="5.0"
+  archive="WECHAT_PROJECT.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
